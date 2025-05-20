@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/891ca0ba334b4b2d8afc2a459f33818f/artifacts
+end_time: 1747738345124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 891ca0ba334b4b2d8afc2a459f33818f
+run_name: placid-grub-535
+run_uuid: 891ca0ba334b4b2d8afc2a459f33818f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747738329743
+status: 3
+tags: []
+user_id: ariaw
